@@ -15,3 +15,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "GCityJetPack"
 include(":app")
+include(":annotationlibrary")
+include(":compilerlibrary")
